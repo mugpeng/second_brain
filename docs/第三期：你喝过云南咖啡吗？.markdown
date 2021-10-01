@@ -7,10 +7,28 @@
 因为内容比较多的缘故，建议你通过使用[sourcegraph](https://sourcegraph.com/github.com/mugpeng/second_brain) 搜索杂志中感兴趣的内容。
 
 # 封面图
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211001194405.png)
+。
+[国物馆 | 中国咖啡看云南，这是我们自己的「咖啡王国」](https://sspai.com/post/68500)
+
+记得上一次听闻云南咖啡还是看郭杰瑞德视频。最近也感觉云南咖啡的出镜率在不断提高。
+
+本文详细介绍了云南咖啡的发展历史以及现状。大家如果喜欢喝咖啡的话，也可以尝试一下中国本土的咖啡。
 
 # 会思考的乌鸦
 
+
 # 一、编程与工具
+
+## 工具
+
+1、使用cubox 整理碎片信息
+
+2、utools 颜色拾取器
+
+9、[全平台服务器管理工具FinalShell](http://www.hostbuf.com/t/988.html)
+
+10、[sourcegraph]()
 
 # 二、科技与生活
 
