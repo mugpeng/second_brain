@@ -16,25 +16,139 @@
 本文详细介绍了云南咖啡的发展历史以及现状。大家如果喜欢喝咖啡的话，也可以尝试一下中国本土的咖啡。
 
 # 会思考的乌鸦
+不知道大家有没有这样的体验：
+在美团上购买团购券，去店里直接扫券，就邀请用户进行评价。但并不是所有的消费都是体验完才扫券的。
 
+如果是面对先扫码再消费的场景，该如何解决呢？
 
 # 一、编程与工具
 
 ## 工具
 
-1、使用cubox 整理碎片信息
+1、[使用cubox 整理碎片信息](https://www.bilibili.com/video/BV1Yq4y1H77y?share_source=copy_web)
 
-2、utools 颜色拾取器
+蛮不错的碎片知识管理工具，提供了分类和标签多个维度的信息整理。而且如果你是印象笔记`剪藏`功能的深度用户，提供了微信保存接口及浏览器插件的cubox 确实是个不错的选择。
 
-9、[全平台服务器管理工具FinalShell](http://www.hostbuf.com/t/988.html)
+2、[好物分享第十弹——使用flomo管理碎片化知识](https://mp.weixin.qq.com/s?__biz=MzU5ODc3OTA0NQ==&mid=2247485498&idx=1&sn=0181dfe410d8cd1a19661342d889b9e4&chksm=febfbdf0c9c834e6b2881711ae3220af8fbac8bb286d762b9fc8e397dab9ec43b454ff6057cc&token=730402367&lang=zh_CN#rd)
 
-10、[sourcegraph]()
+对于知识碎片管理，我更加青睐的软件。
+
+3、[全平台服务器管理工具FinalShell](https://blog.csdn.net/shaoming314/article/details/117071590)
+
+下载地址：http://www.hostbuf.com/t/988.html
+
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006160436.png)
+
+可以设置背景是让我眼前一亮的一点。
+
+但是并不能像termius 中选择下载与上传的路径。
+
+此外，期待一款mac下可以像MobaXterm 直接拖拽连接所在目录下文件的工具：
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006160703.png)
+
+
+4、[中国人的开源远程桌面软件-Rustdesk](https://www.sunqi.org/rustdesk.html)
+
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006160224.png)
+
+teamviewer，您小心了啊！
+
+5、[使用 Sourcegraph 更好地搜索和浏览 GitHub上的代码](https://zhuanlan.zhihu.com/p/27620085)
+
+程序员的代码浏览器！配上他逛github，妈妈再也不用担心我的学习～
+
+具体内容可以参见教程：[零成本装逼指南！单细胞时代，教你用单细胞数据库巧筛基因，做科研！](https://mp.weixin.qq.com/s/aLeqnTF0nBLWNbnakNmQJQ)
+
+6、[如何制作一个漂亮的二维码](https://qrbtf.com/)
+
+可以上传自定义的二维码图片或网址生成，网站提供了多种风格：
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006200315.png)
+
+这个范例的名片，也太帅了：
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006200346.png)
+
+## 生信
+6、[单细胞数据库：SC2disease](http://www.easybioai.com/sc2disease/)
+
+相当于收录了单细胞水平的基因表达数据。其中包含了946481条目，对应于341种细胞类型、29 种组织和 25 种疾病。
+
+## 科研
+7、摘自[现代科研指北](https://bookdown.org/yufree/sciguide/)
+
+> 全国博士毕业生目前在几万人的水平，按照很多人的说法，读到博士就应该去做学术。但学术路径可能并不好走，简单划分，学术路径包括以下几个阶段：
+博士博后阶段，主要目标累积文章拿教职，占当年博士毕业生 30%
+独立课题组阶段，主要目标能自己课题组正常运行，占当年博士毕业生 5%
+学术带头人阶段，主要目标其平台或方向可以持续运行，占当年博士毕业生 1%
+学科带头人阶段，主要目标是为自己学科从国家那边争取资源，占当年博士毕业生 0.1%
+
 
 # 二、科技与生活
 
+## 健康
+8、[体检报告漫画解读](https://mp.weixin.qq.com/s/TAK0Rx5PmE3Ly_wWiR6XBQ)
+
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006192958.png)
+.
+非常可爱的漫画风格。可惜我的心已经被血小板偷走了😢～
+
+
+## 影视
+
+9、《关于我妈的一切》
+
+忽然想到了暑期档的《你好，李焕英》。似乎这类亲情题材的电影永远都能打动我的心。另外，比起李焕英，感觉《关于我妈的一切》中似乎有一些刻意的催泪场景，虽然说艺术源于生活，但也不希望这种艺术把弄某些题材上的“影视上座密码”。
+
+10、《黑镜 第一季》
+
+我真的是太爱这种类型的片子了。几个和科技、架空相关的小故事，讽刺值拉满。
+
+11、《图标机动战士高达 闪光的哈萨维》
+
+片子里高达打斗的场景再多一些，就更过瘾了。
+ps：如果能去电影院看就更爽了。
+
 # 三、学习资源
 
+12、(可以玩的大学课程：基本操作)[https://jibencaozuo.com/]
+
+从来没有想过交互式的视频的形式。有点像小时候玩的动画游戏：
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006091645.png)
+
+我个人体验了里面的贝叶斯算法教学，感觉还是非常生动的。思考感觉不到课堂的压迫。
+
+13、[18 个终端命令行工具，绝对让你感觉自己像个10倍程序员](https://zhuanlan.zhihu.com/p/413091831)
+
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006155815.png)
+.
+
+14、[开源的本科生信学习计划](https://github.com/ossu/bioinformatics)
+
+非常良心的公开资源，甚至列了一个课程表：
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006202320.png)
+.
+课程对应的都是网上公开的免费学习资源。
+
+除此之外，这个项目也提供了很多其他专业的学习路径：
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211006202501.png)
+.
+
+
+## 公众号
+15、[实验万事屋](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3ODU1NjUyNw==&scene=124#wechat_redirect)
+
+算是我的科研启蒙公众号了。
+
+最近还买了出的新书：《信号通路是什么“鬼”？》
+
+16、[生信菜鸟团](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUzMTEwODk0Ng==&scene=124#wechat_redirect)
+
+里面有非常多的学习资源，比如：
+[好物推荐](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzUzMTEwODk0Ng==&scene=1&album_id=1858959939205922824&count=3#wechat_redirect)
+[statsquest 统计学学习笔记](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzUzMTEwODk0Ng==&scene=1&album_id=2038323090824265732&count=3#wechat_redirect)
+
 # 四、新闻与前沿
-[]()
-[]()
-[]()
+17、[《自然》：肠菌竟是药物“小偷”！科学家发现70种细菌-药物的相互作用方式，肠菌会把药物偷偷藏起来 | 科学大发现](https://mp.weixin.qq.com/s/E1e08r8dWriMTpKqvojCzw)
+18、[重磅！美方首次阐述对华贸易愿景](https://mp.weixin.qq.com/s/r0ooED4MZ9qo5cc7ykxjiA)
+疑似孟晚舟释放后，中美关系又一积极信号。
+19、[朝鲜做了一个重要决定！](https://mp.weixin.qq.com/s/fqmbn2W_UhvElhGweedV9w)
+韩朝之间，通讯联络线再次恢复正常。

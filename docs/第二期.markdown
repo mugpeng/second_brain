@@ -104,9 +104,12 @@ utools 真是一个宝藏软件，前面刚好说到颜色拾取，它就提供�
 
 在网络上找了一圈，发现并没有一篇精彩的教程，你可以参考我写的内容：
 
+
 9、[mac 增强quicklook 功能](https://zhuanlan.zhihu.com/p/89419729)
 mac 一个非常方便的地方在于，我们可以在不打开文件的情况下，直接通过空格+点击的方式，实现文件的快捷预览，也就是quicklook：
-![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211001103058.png)
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211002155229.png)
+
+
 
 但默认的quicklook 并不支持相关的操作。
 
@@ -120,6 +123,8 @@ brew install qlmarkdown
 如果没有安装brew cask 拓展也没有关系，会自动下载。
 
 配置后就可以直接浏览md 文件了。
+
+![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211002155044.png)
 
 此外还有许多配置设定：
 [Quick Look plugins Awesome](https://github.com/sindresorhus/quick-look-plugins)
