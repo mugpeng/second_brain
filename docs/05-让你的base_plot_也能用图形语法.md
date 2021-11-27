@@ -62,9 +62,9 @@ ps：最近在不断尝试杂志的运营，可能标题、内容上会有不间
 
 # 二、生信
 
-5、[#风风专栏 (qq.com)](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzAwMjY4MDE2Mg==&scene=1&album_id=1610278242739929089&count=3#wechat_redirect)
+5、[风风专栏 (qq.com)](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzAwMjY4MDE2Mg==&scene=1&album_id=1610278242739929089&count=3#wechat_redirect)
 
-一个值得追踪的单细胞学习专题：
+一个值得追踪的单细胞文献学习专题：
 ![](https://cdn.jsdelivr.net/gh/mugpeng/my-gallery-01/picgo_image/20211023223725.png)
 
 6、[用 cookiecutter 创建新项目 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247499847&idx=1&sn=f70fe44e1a65798b4a5ddb602fb12bf5&chksm=fa45057acd328c6c08c459c045c1282a4d4cbc30bff7f37b1581d234c74107f7ae1bd609fe64&mpshare=1&scene=1&srcid=1003DtC8iGBGQNG7WeUgvsyv&sharer_sharetime=1633253230603&sharer_shareid=09ad01922874f537a0cd4f9686183865#rd)
